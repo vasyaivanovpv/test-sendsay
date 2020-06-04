@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sendsay/static/css/main.a38bcdb6.chunk.css",
+    "main.js": "/sendsay/static/js/main.37c0cdc8.chunk.js",
+    "main.js.map": "/sendsay/static/js/main.37c0cdc8.chunk.js.map",
+    "runtime-main.js": "/sendsay/static/js/runtime-main.01231fd9.js",
+    "runtime-main.js.map": "/sendsay/static/js/runtime-main.01231fd9.js.map",
+    "static/js/2.17e51bd0.chunk.js": "/sendsay/static/js/2.17e51bd0.chunk.js",
+    "static/js/2.17e51bd0.chunk.js.map": "/sendsay/static/js/2.17e51bd0.chunk.js.map",
+    "index.html": "/sendsay/index.html",
+    "precache-manifest.62250d0e6f324ec6eb940aa175c71505.js": "/sendsay/precache-manifest.62250d0e6f324ec6eb940aa175c71505.js",
+    "service-worker.js": "/sendsay/service-worker.js",
+    "static/css/main.a38bcdb6.chunk.css.map": "/sendsay/static/css/main.a38bcdb6.chunk.css.map",
+    "static/js/2.17e51bd0.chunk.js.LICENSE": "/sendsay/static/js/2.17e51bd0.chunk.js.LICENSE",
+    "static/media/App.css": "/sendsay/static/media/SF-Pro-Text-Regular.404e4373.otf",
+    "static/media/paperclip.svg": "/sendsay/static/media/paperclip.7cf44a95.svg",
+    "static/media/trash.svg": "/sendsay/static/media/trash.f81c7834.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01231fd9.js",
+    "static/js/2.17e51bd0.chunk.js",
+    "static/css/main.a38bcdb6.chunk.css",
+    "static/js/main.37c0cdc8.chunk.js"
+  ]
+}
